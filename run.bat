@@ -1,0 +1,2 @@
+twitchGO.exe
+pause
