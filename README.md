@@ -1,5 +1,5 @@
 # twitchGO
-Helpers for Twitch API integration in Golang
+Helpers for Twitch API integration in Golang  
 To use: create .env file in same directory
 
 ```
